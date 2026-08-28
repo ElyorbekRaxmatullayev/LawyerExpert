@@ -83,4 +83,4 @@
 подписи и номера — IBM Plex Mono.
 
 Логотип: эмблема «LE» с весами правосудия и проверенным документом,
-подпись BEKMURATOV · LEGAL EXPERTISE. Исходники — в `assets/logo-source/`.
+подпись BEKMURATOV · LEGAL EXPERTISE.

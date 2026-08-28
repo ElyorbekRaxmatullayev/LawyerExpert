@@ -1,0 +1,14 @@
+{
+  "name": "Bekmuratov Legal Expertise",
+  "short_name": "Legal Expertise",
+  "description": "Юридическая экспертиза документов в Ташкенте",
+  "lang": "ru",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#0A1C33",
+  "icons": [
+    { "src": "/assets/favicon.png", "sizes": "180x180", "type": "image/png", "purpose": "any" }
+  ]
+}
